@@ -98,7 +98,7 @@
 
 <!-- 底部再次添加语言切换，提升易用性 -->
 <div align="center">
-  <p>© 2025 技术博客笔记 | 论文链接：<a href="https://doi.org/10.1016/j.measurement.2025.117252">Measurement 2025</a></p>
+  <p>© 2026 技术博客笔记 | 论文链接：<a href="https://doi.org/10.1016/j.measurement.2025.117252">Measurement 2025</a></p>
   <br>
   <a href="#readme">简体中文</a> | 
   <a href="./README_en.md">English</a>
