@@ -1,15 +1,13 @@
 <div align="center">
-  <!-- 语言徽章（可选，提升视觉效果） -->
   <img src="https://img.shields.io/badge/Language-中文-red.svg" alt="中文">
   <img src="https://img.shields.io/badge/Language-English-blue.svg" alt="English">
   
   <h1>📚 读书笔记：基于热力学仿真辅助随机森林的可解释故障诊断</h1>
   <p>论文：Thermodynamic simulation-assisted random forest for marine diesel engine fault diagnosis</p>
   
-  <!-- 核心语言切换导航（仿Ultralytics风格，已优化跳转链接） -->
   <div style="margin: 10px 0;">
     <a href="#readme" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">简体中文</a> | 
-    <a href="./README_en.md" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">English</a>
+    <a href="README_en.html" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">English</a>
   </div>
 </div>
 
@@ -103,5 +101,5 @@
   <p>© 2026 技术博客笔记 | 论文链接：<a href="https://doi.org/10.1016/j.measurement.2025.117252">Measurement 2025</a></p>
   <br>
   <a href="#readme">简体中文</a> | 
-  <a href="./README_en.md">English</a>
+  <a href="README_en.html">English</a>
 </div>
