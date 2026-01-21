@@ -82,10 +82,10 @@
 4. 99.07%高准确率：兼顾精度与可解释性，适合工业部署。
 
 ## 📚 参考资料
-参考文献：[1] C. Luo, M. Zhao*, X. Fu, S. Zhong, S. Fu, K. Zhang, X. Yu. Thermodynamic simulation-assisted random forest: Towards explainable fault diagnosis of combustion chamber components of marine diesel engines[J]. Measurement, 2025, 251: 117252.
-论文链接：https://doi.org/10.1016/j.measurement.2025.117252
-原作者的代码及数据：https://ts-rf.github.io/zh-CN/
-核心代码思路：基于 Tree SHAP 的特征选择 + 随机森林分类（可参考 scikit-learn+shap 库实现）
+- 参考文献：[1] C. Luo, M. Zhao*, X. Fu, S. Zhong, S. Fu, K. Zhang, X. Yu. Thermodynamic simulation-assisted random forest: Towards explainable fault diagnosis of combustion chamber components of marine diesel engines[J]. Measurement, 2025, 251: 117252.
+- 论文链接：https://doi.org/10.1016/j.measurement.2025.117252
+- 原作者的代码及数据：https://ts-rf.github.io/zh-CN/
+- 核心代码思路：基于 Tree SHAP 的特征选择 + 随机森林分类（可参考 scikit-learn+shap 库实现）
 
 ## 🔖 笔记说明
 本文是对 2025 年《Measurement》期刊论文的核心解读，重点提炼了 TSRF 方法的创新点、实验设计和关键结果。适合从事工业故障诊断、船舶工程、机器学习应用的开发者参考。
