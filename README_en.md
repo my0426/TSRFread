@@ -1,16 +1,12 @@
 <div align="center">
-  <!-- Language Badges -->
   <img src="https://img.shields.io/badge/Language-中文-red.svg" alt="Chinese">
   <img src="https://img.shields.io/badge/Language-English-blue.svg" alt="English">
   
-  <h1>📚 Reading Notes: Explainable Fault Diagnosis Based on Thermodynamic Simulation-Assisted Random Forest</h1>
+  <h1>📚 Reading Notes: Thermodynamic simulation-assisted random forest...</h1>
   <p>Paper: Thermodynamic simulation-assisted random forest for marine diesel engine fault diagnosis</p>
   
-  <!-- 核心：跳回中文的链接 + 英文锚点，样式和中文端统一 -->
   <div style="margin: 10px 0;">
-    <!-- 跳转中文README.md，相对路径确保GitHub Pages能访问 -->
-    <a href="./README.md" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">Simplified Chinese</a> | 
-    <!-- 锚点跳转到当前英文页面顶部，提升体验 -->
+    <a href="index.html" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">Simplified Chinese</a> | 
     <a href="#readme" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">English</a>
   </div>
 </div>
@@ -103,8 +99,8 @@ This article is a core interpretation of the 2025 "Measurement" journal paper, f
 
 <!-- Bottom Language Switch for Usability -->
 <div align="center">
-  <p>© 2026 Technical Blog Notes | Paper Link: <a href="https://doi.org/10.1016/j.measurement.2025.117252">Measurement 2025</a></p>
+  <p>© 2026 Tech Blog Notes | Paper: <a href="https://doi.org/10.1016/j.measurement.2025.117252">Measurement 2025</a></p>
   <br>
-  <a href="./README.md">Simplified Chinese</a> | 
+  <a href="index.html">Simplified Chinese</a> | 
   <a href="#readme">English</a>
 </div>
