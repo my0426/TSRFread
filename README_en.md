@@ -6,7 +6,7 @@
   <p>Paper: Thermodynamic simulation-assisted random forest for marine diesel engine fault diagnosis</p>
   
   <div style="margin: 10px 0;">
-    <a href="index.html" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">Simplified Chinese</a> | 
+    <a href="./" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">Simplified Chinese</a> | 
     <a href="#readme" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">English</a>
   </div>
 </div>
@@ -101,6 +101,6 @@ This article is a core interpretation of the 2025 "Measurement" journal paper, f
 <div align="center">
   <p>© 2026 Tech Blog Notes | Paper: <a href="https://doi.org/10.1016/j.measurement.2025.117252">Measurement 2025</a></p>
   <br>
-  <a href="index.html">Simplified Chinese</a> | 
+  <a href="./">Simplified Chinese</a> | 
   <a href="#readme">English</a>
 </div>
