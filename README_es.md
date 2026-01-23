@@ -95,7 +95,7 @@ El artículo calibra el modelo con datos reales de sensores de motores diésel m
 ## 📚 Referencias
 - Referencia: [1] C. Luo, M. Zhao*, X. Fu, S. Zhong, S. Fu, K. Zhang, X. Yu. Thermodynamic simulation-assisted random forest: Towards explainable fault diagnosis of combustion chamber components of marine diesel engines[J]. Measurement, 2025, 251: 117252.
 - Enlace al artículo: https://doi.org/10.1016/j.measurement.2025.117252
-- Código y datos del autor: https://ts-rf.github.io/es/
+- Código y datos del autor: https://ts-rf.github.io/es
 - Idea central del código: Selección de características basada en Tree SHAP + Clasificación Random Forest.
 
 ## 🔖 Nota
