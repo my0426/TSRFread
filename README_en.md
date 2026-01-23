@@ -1,13 +1,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Language-中文-red.svg" alt="Chinese">
   <img src="https://img.shields.io/badge/Language-English-blue.svg" alt="English">
+  <img src="https://img.shields.io/badge/Language-Español-yellow.svg" alt="Spanish">
+  <img src="https://img.shields.io/badge/Language-Português-green.svg" alt="Portuguese">
   
   <h1>📚 Reading Notes: Thermodynamic simulation-assisted random forest...</h1>
   <p>Paper: Thermodynamic simulation-assisted random forest for marine diesel engine fault diagnosis</p>
   
   <div style="margin: 10px 0;">
     <a href="./" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">Simplified Chinese</a> | 
-    <a href="#readme" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">English</a>
+    <a href="#readme" style="padding: 5px 10px; background: #333; border-radius: 4px; text-decoration: none; color: #fff; font-weight: bold;">English</a> | 
+    <a href="README_es.html" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">Español</a> | 
+    <a href="README_pt.html" style="padding: 5px 10px; background: #f0f0f0; border-radius: 4px; text-decoration: none; color: #333;">Português</a>
   </div>
 </div>
 
@@ -102,5 +106,7 @@ This article is a core interpretation of the 2025 "Measurement" journal paper, f
   <p>© 2026 Tech Blog Notes | Paper: <a href="https://doi.org/10.1016/j.measurement.2025.117252">Measurement 2025</a></p>
   <br>
   <a href="./">Simplified Chinese</a> | 
-  <a href="#readme">English</a>
+  <a href="#readme">English</a> | 
+  <a href="README_es.html">Español</a> | 
+  <a href="README_pt.html">Português</a>
 </div>
